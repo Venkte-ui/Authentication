@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Venktesh Kumar Misra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.0",
+    "otp-generator": "^4.0.0"
+  }
 }
